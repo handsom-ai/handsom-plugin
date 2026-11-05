@@ -1,0 +1,10 @@
+{
+  "name": "handsom",
+  "displayName": "Handsom",
+  "version": "1.0.0",
+  "description": "Set up and change a Handsom store from your own agent: apply a brand's policies, documents and interview notes as rules, facts and knowledge.",
+  "author": {
+    "name": "Handsom",
+    "url": "https://handsom.ai"
+  }
+}

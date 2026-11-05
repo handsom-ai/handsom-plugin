@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "handsom": {
+      "type": "http",
+      "url": "https://api.handsom.ai/mcp"
+    }
+  }
+}

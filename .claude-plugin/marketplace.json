@@ -1,0 +1,14 @@
+{
+  "name": "handsom",
+  "description": "Set up and change a Handsom store from your own agent: apply a brand's policies, documents and interview notes as rules, facts and knowledge.",
+  "owner": {
+    "name": "Handsom"
+  },
+  "plugins": [
+    {
+      "name": "handsom",
+      "source": "./plugins/handsom",
+      "description": "Set up and change a Handsom store from your own agent: apply a brand's policies, documents and interview notes as rules, facts and knowledge."
+    }
+  ]
+}
