@@ -30,4 +30,4 @@ codex mcp login handsom
 
 ## Use it
 
-Ask your agent what needs you this morning, or how something in Handsom works. Give it a brand's documents or interview notes and ask it to apply them to the store: it reads the guide, checks each change, saves it and writes a handover. Changes to rules can be undone.
+Ask your agent what needs you this morning, or how something in Handsom works. Give it a brand's documents or interview notes and ask it to apply them to the store: it reads the guide, checks each change, saves it and finishes with a short note: your questions, and what to check. Changes to rules can be undone.
